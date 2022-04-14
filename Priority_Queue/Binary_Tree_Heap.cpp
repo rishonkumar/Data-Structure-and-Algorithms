@@ -9,6 +9,7 @@ struct Node
     int key;
     Node* left;
     Node* right;
+    int data;
 };
 
 
